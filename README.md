@@ -72,7 +72,7 @@ Using the skills gained on this course and through online research (self study a
 
 Create a basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
 
-## ASP.NET MVC Entity Framework Assignment Part 4
+## ASP.NET MVC Entity Framework Assignment Part 4 (CarInsurance)
 Complete these actions:
 
 In the InsureeController, add logic to calculate a quote based on these guidelines:
